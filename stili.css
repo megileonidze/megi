@@ -1,0 +1,29 @@
+*{
+	background-color: lightslategray;
+}
+
+
+
+
+h3{
+	font-size: 25px;
+
+color: orange;
+background-color:blue ;
+
+}
+
+
+p{
+
+	font-size: 20px;
+	color: blue;
+	background-color: powderblue;
+	text-align: justify;
+	padding: 20px;
+}
+	div
+{
+	background-color: #102030;
+width: 80%;
+}
